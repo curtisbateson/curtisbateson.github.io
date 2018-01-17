@@ -1,0 +1,30 @@
+html {
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+}
+
+header, footer {
+  background-color: rebeccapurple;
+  color: aliceblue;
+  font-family: 'Roboto Slab', serif;
+}
+
+header h1 {
+  padding: 30px;
+  margin: 0;
+}
+
+.content {
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 15% 60px;
+}
+
+footer {
+  bottom: 0;
+  padding: 10px 30px;
+  position: fixed;
+  width: 100%;
+}
